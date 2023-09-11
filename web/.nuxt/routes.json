@@ -1,0 +1,16 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/mark/work/Ghibli-Exam/web/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_23bd9097"
+  },
+  {
+    "name": "anime-slug",
+    "path": "/anime/:slug",
+    "component": "/home/mark/work/Ghibli-Exam/web/pages/anime/_slug/index.vue",
+    "chunkName": "pages/anime/_slug/index",
+    "_name": "_40e08d37"
+  }
+]
